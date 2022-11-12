@@ -1,0 +1,7 @@
+ct_management_account_id    = "151469914903"
+log_archive_account_id      = "000604526717"
+audit_account_id            = "956448994859"
+aft_management_account_id   = "244353766433"
+github_username             = "miloszizic"
+ct_home_region              = "us-east-1"
+tf_backend_secondary_region = "us-east-2"
